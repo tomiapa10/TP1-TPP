@@ -29,3 +29,7 @@ body{
   background-color: #f0f0f0;
   padding-top: 50px;
 }
+.Imagen1:hover {
+  transform: rotate(5deg);
+  transition: transform 0.3s ease;
+}
