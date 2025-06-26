@@ -11,12 +11,13 @@
 .Imagen1{
   width: 150px;
   height: 150px;
+  border: 3px solid #009688;
   border-radius: 50%;
   object-fit: cover;
-  margin-bottom: 15px;
+  margin-top: 10px;
 }
 .Seccion1{
-background-color: aquamarine;
+  background-color: aquamarine;
   border: 3px solid #009688;
   border-radius: 16px;
   width: 300px;
@@ -25,7 +26,6 @@ background-color: aquamarine;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2)
 }
 body{
- background-color: #f0f0f0;
+  background-color: #f0f0f0;
   padding-top: 50px;
-  text-align: center;
 }
